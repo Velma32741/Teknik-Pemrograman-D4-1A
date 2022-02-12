@@ -2,7 +2,7 @@ package com.mycompany.konstan1;
 
 /**
  *
- * @author FAKHRI
+ * @author Hanri
  */
 public class Konstan1 {
 public static void main(String[] args) {
