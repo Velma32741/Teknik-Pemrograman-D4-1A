@@ -2,7 +2,7 @@ package com.mycompany.operator1;
 
 /**
  *
- * @author FAKHRI
+ * @author Hanri
  */
 class operator1{
  public static void main(String[] args) {
